@@ -13,6 +13,8 @@ public class JsonPayload {
 	
 	public static final String PROTOCOL = "protocol";
 
+	public static final String SERVER = "server";
+
 	public static final String METHOD = "method";
 	
 	public static final String HEADERS = "headers";
